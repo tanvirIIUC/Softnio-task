@@ -48,7 +48,7 @@ Check out the live site [here](https://softnio-task.web.app/).
 
 ### State Management
 - The product details and cart data are managed using React's `useState` hook.
-- 
+  
 ### React Icon
 - USe react icon.
 
