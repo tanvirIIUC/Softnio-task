@@ -50,7 +50,7 @@ Check out the live site [here](https://softnio-task.web.app/).
 - The product details and cart data are managed using React's `useState` hook.
   
 ### React Icon
-- USe react icon.
+- Use react icon.
 
 ### Adding to Cart
 - The "Add to Cart" button becomes active only when the item counter is greater than zero.
