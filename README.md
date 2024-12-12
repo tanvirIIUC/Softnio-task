@@ -1,5 +1,9 @@
 # E-Commerce Website
 
+## Live site
+
+Check out the live site [here](https://softnio-task.web.app/).
+
 An elegant and fully functional e-commerce website built using React.js (Vite) and styled with Tailwind CSS. The website is hosted on Firebase.
 
 ## Features
@@ -40,9 +44,6 @@ An elegant and fully functional e-commerce website built using React.js (Vite) a
    npm run dev
    ```
 
-## Live Demo
-
-Check out the live site [here](https://softnio-task.web.app/).
 
 ## Implementation Details
 
